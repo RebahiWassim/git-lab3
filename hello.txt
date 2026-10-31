@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Feature C updated
+=======
 Main updated (C)
+>>>>>>> origin/main
